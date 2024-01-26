@@ -1,1 +1,120 @@
-/* место для вашего кода */
+.logo-black{
+    display: block;
+    justify-self: center;
+}
+
+.main{
+    width: 100%;
+}
+
+.cover_main-text_style{
+    font-family: Raleway;
+    font-weight: 700;
+    font-size: 100px;
+    text-transform: uppercase;
+}
+
+.spacing_30{
+    letter-spacing: 30px;
+}
+
+.spacing_60{
+    letter-spacing: 60px;
+}
+
+.list_uncircled{
+    list-style: none;
+}
+
+.underline_style{
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 0px;
+}
+
+
+.header_logo_img{
+    width: 148px;
+    height: 105px;
+}
+
+.header{
+    width: 100%;
+    height: 293px;
+    background-color: white;
+    padding: 92px 24px 96px 24px;
+    border: 1px solid black;
+}
+
+.header_section{
+    height: 105px;
+    align-self: center;
+    display: grid;
+    grid-template-columns: 1fr 148px 1fr;
+    align-items: center;
+}
+
+.nav{
+    justify-self: center;
+}
+
+.menu_list{
+    display: flex;
+    gap: 28px;
+    white-space: nowrap;
+    list-style: circle;
+}
+
+.contacts{
+    justify-self: center;
+    width: 237px;
+    justify-self: end;
+    margin-right: 28px;
+}
+
+.adress_links{
+    display: flex;
+    flex-direction: column;
+}
+
+
+/*MAIN*/
+
+.cover{
+    width: 100%;
+    height: 757px;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/dev/ono-tebe-nado/images/lotus-flower.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 0 50px;
+}
+
+.cover_text_flex{
+    display: flex;
+    flex-direction: column;
+    height: 355px;
+    flex-wrap: nowrap;
+    justify-content: center;
+    border: 2px solid white;
+    position: relative;
+    top: 165px;
+}
+
+
+
+div{
+    font-size: 100px;
+}
+
+.d{
+    justify-self: start;
+}
+
+.i{
+    justify-self: center;
+}
+
+
+
+
