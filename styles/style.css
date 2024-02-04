@@ -33,6 +33,7 @@
   gap: 10px 31px;
   white-space: nowrap;
   letter-spacing: 0.25px;
+  padding-bottom: 3px;
 }
 
 .header__links-list-item {
@@ -72,6 +73,7 @@
   font-style: normal;
   justify-self: end;
   line-height: 24.3px;
+  padding-bottom: 3px;
 }
 
 /*COVER*/
