@@ -18,7 +18,7 @@
   display: grid;
   grid-template-columns: 1fr 147px 1fr;
   align-items: center;
-  padding: 97px 51px 95px 50px;
+  padding: 97px 51px 98px 50px;
 }
 
 .header__menu {
@@ -33,7 +33,6 @@
   gap: 10px 31px;
   white-space: nowrap;
   letter-spacing: 0.25px;
-  padding-top: 5px;
 }
 
 .header__links-list-item {
@@ -73,7 +72,6 @@
   font-style: normal;
   justify-self: end;
   line-height: 24.3px;
-  padding-top: 4px;
 }
 
 /*COVER*/
@@ -88,7 +86,7 @@
   color: white;
   z-index: 1;
   position: relative;
-  padding: 165px 50px 50px 50px;
+  padding: 168px 50px 50px 50px;
 }
 
 .overlay {
@@ -177,7 +175,7 @@
 /*LOTS*/
 
 .lots {
-  padding: 179px 24px 148px 24px;
+  padding: 176px 24px 148px 24px;
   min-width: 100%;
   display: flex;
   flex-direction: column;
